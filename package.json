@@ -1,0 +1,9 @@
+{
+  "name": "shizz-main-root",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "pnpm --dir shizz-main run dev",
+    "build": "pnpm --dir shizz-main run build"
+  }
+}
